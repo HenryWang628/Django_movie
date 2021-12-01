@@ -1,6 +1,8 @@
 # Django_movie
 
 Use Django to establish a movie website
+
+
 ![movie_1](https://user-images.githubusercontent.com/50401924/144229117-65e72cef-4a18-44ef-abbf-2fc4711bac18.JPG)
 
 
